@@ -36,13 +36,13 @@ Used for understanding packet lifecycle and debugging.
 
 ### 2️⃣ Multi-Threaded Mode
 
-                Reader Thread
-                       ↓
-             Load Balancer Threads
-                       ↓
-            Fast Path (Worker) Threads
-                       ↓
-                Output Writer
+            Reader Thread
+                   ↓
+         Load Balancer Threads
+                   ↓
+        Fast Path (Worker) Threads
+                   ↓
+            Output Writer
 
 ### Architectural Highlights
 
@@ -187,8 +187,7 @@ Data Structures (hash maps, queues)
 Load Balancing Design
 
 Scalable Backend Architecture
----
 
-### 📌 Project Focus
+📌 Project Focus
 
-This project is built to demonstrate practical understanding of networking internals, concurrent system design, and scalable backend architecture using modern C++.
+This project demonstrates practical understanding of networking internals, concurrent system design, and scalable backend architecture using modern C++.
