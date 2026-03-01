@@ -159,7 +159,7 @@ HTTPS      50%
 DNS        5%
 YouTube    5% (Blocked)
 Facebook   4%
-⚡ Engineering Highlights
+## ⚡ Engineering Highlights
 
 Manual byte-level protocol parsing (no external DPI libraries)
 
@@ -175,7 +175,7 @@ Rule-based filtering architecture
 
 Performance-oriented C++ systems design
 
-🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 
 Systems Programming (C++)
 
@@ -189,6 +189,6 @@ Load Balancing Design
 
 Scalable Backend Architecture
 
-📌 Project Focus
+## 📌 Project Focus
 
 This project demonstrates practical understanding of networking internals, concurrent system design, and scalable backend architecture using modern C++.
